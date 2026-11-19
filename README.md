@@ -1,6 +1,6 @@
 # QA Testing – Marcin Kołłek
 
-Welcome to my Quality Assurance portfolio! I am an **ISTQB® Certified Tester Foundation Level (CTFL)** graduate with hands-on training in manual testing, API testing, and basic test automation.
+Welcome to my Quality Assurance portfolio!
 
 This repository showcases practical artifacts created during my training and self-guided practice.
 
