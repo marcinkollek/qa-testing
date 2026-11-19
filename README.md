@@ -20,7 +20,7 @@ This repository showcases practical artifacts created during my training and sel
 * **Test Plan** – scope, test approach, entry/exit criteria, and risk analysis for an e-commerce web application.
 * **Test Cases** – detailed functional and boundary value test cases (registration, login, search, checkout).
 
-### 2. [Bug Reports](./02-bug-reports/bug-reports.md)
+### 2. [Bug Reports]./01-test-documentation/02-bug-reports/bug-reports.md)
 * Sample defect reports written according to industry best practices (clear summary, steps to reproduce, expected vs. actual result, severity/priority, and environment details).
 
 ### 3. [API Testing (Postman)](./03-api-testing-postman)
