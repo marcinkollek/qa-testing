@@ -36,4 +36,4 @@ This folder contains an exported Postman collection covering end-to-end REST API
 
 ## 📸 Test Execution Proof
 
-![Postman Collection Runner Results](./postman-runner-results.png)
+![Postman Collection Runner Results](./postman-runner-results.PNG)
