@@ -31,3 +31,9 @@ This folder contains an exported Postman collection covering end-to-end REST API
 2. Open **Postman** and click **Import** (top-left).
 3. Select the downloaded `.json` file.
 4. Open the imported collection **Restful-Booker API Tests** and click **Run** (Collection Runner) to execute all 6 requests sequentially with automated test assertions.
+
+---
+
+## 📸 Test Execution Proof
+
+![Postman Collection Runner Results](./postman-runner-results.png)
